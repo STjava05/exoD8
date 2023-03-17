@@ -31,7 +31,7 @@ header {
     background-size: contain;
     margin-left: 150px;
 }
-.header-dx {
+.header-droite {
     height: 50%;
     margin-right: 180px;
     display: flex;
@@ -42,7 +42,7 @@ header {
     background-color: transparent;
     border: none;
 }
-.header-dx .material-symbols-outlined {
+.header-droite .material-symbols-outlined {
     font-size: 1.5em;
     color: gray;
 }
@@ -72,22 +72,22 @@ main{
     margin-left: 150px;
     margin-top: 80px;
 }
-.section-left {
+.section-gauche {
     width: 60%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 50px;
 }
-.choosingBar {
+.choisir {
     width: 100%;
     border-bottom: 1px solid grey ;
 }
-.choosingBar button {
+.choisir button {
     background-color: transparent;
     border: none;
     padding: 8px;
 }
-.choosingBar button:hover {
+.choisir button:hover {
     border-bottom: 2px solid black;
     font-weight: bold;
     cursor: pointer;
@@ -101,13 +101,13 @@ main{
     margin-top: 30px;
     margin-right: 25px;
 }
-.article-sx {
+.article-gauche {
     width: 70%;
     height: 100%;
     display: flex ;
     flex-wrap: wrap;
 }
-.article-sx-author {
+.article-gauche-author {
     width: 100%;
     height: 20px;
     display: flex;
@@ -128,7 +128,7 @@ main{
 .a3 {background-image: url(asset/usericon3.png);}
 .a4 {background-image: url(asset/usericon4.png);}
 .a6 {background-image: url(asset/usericon6.png);}
-.article-sx-text {
+.article-gauche-text {
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -138,7 +138,7 @@ h3 {
 p {
     margin: 0 
 }
-.article-sx-info {
+.article-gauche-info {
     align-self: flex-end;
     width: 100%;
     height: 20px;
@@ -151,7 +151,7 @@ p {
     
 }
 
-.article-sx-info span {
+.article-gauche-info span {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -169,7 +169,7 @@ p {
     border: none;
     padding: 2px 4px 2px 4px;
 }
-.article-dx {
+.article-droite {
 width: 30%;
 height: 100%;
 background-position: center;
