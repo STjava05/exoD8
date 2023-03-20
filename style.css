@@ -176,12 +176,12 @@ background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 }
-.first {background-image: url(asset/img1.png) ;}
-.second {background-image: url(asset/img2.png) ;}
-.third {background-image: url(asset/img3.png) ;}
-.fourth {background-image: url(asset/img4.png) ;}
-.fifth {background-image: url(asset/img5.png) ;}
-.sixth {background-image: url(asset/img6.png) ;}
+.premier {background-image: url(asset/img6.png) ;}
+.deuxieme {background-image: url(asset/img2.png) ;}
+.troisieme {background-image: url(asset/img4.png) ;}
+.quatrieme {background-image: url(asset/img3.png) ;}
+.cinquieme {background-image: url(asset/img5.png) ;}
+.sixieme {background-image: url(asset/img1.png) ;}
 /* DA QUI INIZIA LA SIDEBAR*/
 
 
